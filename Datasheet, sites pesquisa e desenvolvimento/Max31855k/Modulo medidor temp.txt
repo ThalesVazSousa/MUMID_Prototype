@@ -1,0 +1,10 @@
+Medidor de temperatura:
+
+max6675 - https://www.sunrom.com/p/pcb-for-max6675
+
+
+Max31855k - https://portuguese.alibaba.com/product-detail/max31855-k-type-thermocouple-module-pinboard-1350c-spi-connector-digital-readable-adapter-plate-distinguishability-input-3-5v-60476174233.html
+
+lcd - https://www.chinahao.com/Product/521305807601/
+
+ESP8266 - https://blogmasterwalkershop.com.br/embarcados/esp8266/descomplicando-a-pinagem-do-nodemcu

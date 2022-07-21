@@ -1,0 +1,7 @@
+paleta app: 
+
+FONTE PADRÃO: MONOSPACE
+
+dark mode: 30104EFC
+navegation bar: 30104EFC
+

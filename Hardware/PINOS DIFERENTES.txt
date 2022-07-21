@@ -1,0 +1,6 @@
+digitalWrite NÃO funcionou com os GPIOs 6, 7, 8, 11 e o ADC (A0)
+digitalRead NÃO funcionou com os GPIOs 1, 3, 6, 7, 8, 11 e o ADC (A0)
+analogWrite NÃO funcionou com os GPIOs 6, 7, 8, 11 e o ADC (A0) (Os GPIOs 4, 12, 14, 15 possuem PWM por hardware os demais por software)
+analogRead funcionou apenas com o ADC (A0)
+
+6, 7, 8, 11 não funcionam para os quatro comandos acima

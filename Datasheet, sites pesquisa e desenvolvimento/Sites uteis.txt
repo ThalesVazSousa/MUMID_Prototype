@@ -1,0 +1,31 @@
+
+servidor web esp:
+
+https://www.blogdarobotica.com/2020/08/11/monitor-de-temperatura-e-umidade-com-nodemcu-esp8266-como-servidor-web/
+
+Mecânica 3d:
+
+https://youtu.be/gsurne0y4bg
+
+Aplication module termopar:
+
+https://www.filipeflop.com/produto/termopar-tipo-k-com-modulo-max6675/
+
+Site:
+
+https://www.youtube.com/watch?v=Al54cJAFY6o
+
+database e site:
+
+https://www.youtube.com/watch?v=6hpIjx8d15s
+
+
+NodeMCU ESP8266 + Google Spreadsheet:
+
+https://www.youtube.com/watch?v=okNECYf2xlY
+
+firebase:
+
+https://medium.com/@alvaroviebrantz/sensoriamento-realte-com-firebase-e-esp8266-6e54b9bff1c1
+
+https://www.youtube.com/watch?v=sajC6j6OWCc

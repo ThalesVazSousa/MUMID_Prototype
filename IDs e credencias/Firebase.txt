@@ -1,0 +1,9 @@
+id: https://mumid-prototype-23da6-default-rtdb.firebaseio.com/
+chave: bqZy1UegK5hvvwkfYG7TL3k4TZFluxE673H8qrzD
+API: AIzaSyAHASVH9veF4I3MjgVuWXFjYO1bVhUMjGI
+
+
+utilização biblioteca:
+
+esp8266 v2.7.1
+ArduinoJson v5.13.1
